@@ -14,7 +14,7 @@ import java.util.ArrayList;
 public class ColorsActivity extends AppCompatActivity {
 
     /**
-     * Handles playback of all the sound filess
+     * Handles playback of all the sound files
      */
     private MediaPlayer mMediaPlayer;
 
